@@ -43,6 +43,9 @@ set label "(thousands)"   at 2021,2e6 tc ls 4
 set label "Typical Power" at 2021,3e2 tc ls 5
 set label "(Watts)"       at 2021,1e2 tc ls 5
 
+
+
+
 set title "48 Years of Microprocessor Trend Data"
 
 set label "Original data up to the year 2010 collected and plotted by M. Horowitz, F. Labonte, O. Shacham, K. Olukotun, L. Hammond, and C. Batten" at 1970,6e-3 tc ls 1 font ",8"
